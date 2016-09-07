@@ -3,6 +3,10 @@ YTSWebsocketClient
 
 これはwebsocketを使って各種通知を受け取るAndroidアプリケーションです。
 
+## Requirement
+
+* マニフェストファイルに「 <uses-permission android:name="android.permission.INTERNET" />」を追加する必要があります。
+
 ## Licence
 
    Copyright 2016 Daiki Yasuda

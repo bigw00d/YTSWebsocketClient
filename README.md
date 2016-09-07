@@ -5,7 +5,9 @@ YTSWebsocketClient
 
 ## Requirement
 
-* マニフェストファイルに「 <uses-permission android:name="android.permission.INTERNET" />」を追加する必要があります。
+* マニフェストファイルに`<uses-permission android:name="android.permission.INTERNET" />`
+を追加する必要があります。
+
 
 ## Licence
 

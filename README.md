@@ -5,9 +5,13 @@ YTSWebsocketClient
 
 ## Requirement
 
-* マニフェストファイルに`<uses-permission android:name="android.permission.INTERNET" />`
-を追加する必要があります。
+- Android: 5.0  
+- Target Device: Nexus7(2013)  
 
+## Usage
+
+- マニフェストファイルに`<uses-permission android:name="android.permission.INTERNET" />`
+を追加する必要があります。
 
 ## Licence
 
